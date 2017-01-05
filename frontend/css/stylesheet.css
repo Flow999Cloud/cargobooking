@@ -1,0 +1,584 @@
+.navWrapr
+{
+    padding: 0px;
+}
+.navbar-default {
+     background-color:#ffffff;
+    border-color: #e7e7e7;
+    border-right: none;
+    border-left: none;
+    border-radius: 0px;
+    border-bottom: none;
+}
+.sliderwrap{
+     padding: 0px;
+}
+#myCarousel .carousel-inner .item img
+{
+    width: 100%;
+}
+body{
+    background: #ebebeb;
+    border-top:4px solid #ae2429;
+}
+.smallboxArea img{
+      width: 40px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 45px;
+}
+.testimonialContainer{
+    background: #913739;
+       min-height: 425px;
+}
+.whitebg{
+    background: white;
+    width: 480px;
+    border-radius: 12px;
+    padding: 31px;
+        margin-bottom: 39px;
+    
+}
+.footerWraper
+{
+    background: #828386;
+    min-height: 410px;
+    padding-top: 16px;
+}
+.topwraper{
+   background: #fff;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin: 0px;
+}
+.topwraper .logowrap
+{
+    background: inherit;
+}
+.contactWrap{
+    padding-top: 15px;
+}
+.contactWrap ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.contactWrap ul li{
+       float: left;
+    background: #eeeeee;
+    margin-right: 10px;
+    padding: 8px;
+    border-radius: 17px;
+}
+.lngWrap{
+    background: #eeeeee;
+    border: none;
+    
+}
+.btnwrap{
+    padding-top: 15px;
+}
+.btnwrap a{
+    float: right !important;
+    margin-right: 15px;
+    /* height: 50px; */
+    background:#913739;
+    padding: 7px;
+    width: 200px;
+    text-align: center;
+    border-radius: 26px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.navbar-nav > li
+{
+         margin-right: 0px;
+       
+}
+.boxtitle{
+    
+}
+.headingWrap{
+    text-align: center;
+        height: 100px;
+    padding-top: 13px;
+}
+.aboutcompanyDetail{
+    background: white;
+}
+.aboutimage{
+    padding: 0px;
+}
+.aboutimage img{
+    width: 100%;
+}
+.whiteheading
+{
+        background: white;
+        border-radius: 26px;
+        padding: 12px 67px 14px 80px;
+            border: 2px solid #ededed;
+}
+.navbar-nav > li a{font-size: 16px; text-transform:uppercase;}
+.navbar-nav > li a:hover{
+    border-bottom:2px solid #913739; 
+}
+.boxborder {
+    border: 10px solid transparent;
+    padding: 15px;
+    -webkit-border-image: url(../border.png) 30 stretch; /* Safari 3.1-5 */
+    -o-border-image: url(../border.png) 30 stretch; /* Opera 11-12.1 */
+    border-image: url(../border.png) 30 stretch;
+}
+.menuWrap{
+    margin: 0px;
+}
+.navbar
+{
+   margin-bottom: 0px;
+}
+.smallboxArea
+{
+        background: white;
+    padding: 10px;
+        margin-bottom: 15px;
+}
+.whychoosearea{
+   background: #eeeeee;
+}
+.whitewrap{
+    background: #ffffff;
+    padding-bottom: 10px;
+}
+.formWraper
+{
+     background: #eeeeee;
+    width: 99%;
+        padding-bottom: 25px;
+    padding-top: 25px;
+}
+.formWraper .row{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+.customInput{
+    border: 2px solid #cfcfcf;
+    border-radius: 0px;
+        height: 45px;
+   
+}
+.marginBottom{
+     margin-bottom: 20px;
+}
+.customBtn{
+    border-radius: 20px;
+}
+.smallleftpanel
+{
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    
+}
+.nomargin{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.smallleftpanel img{
+    width: 35px;
+}
+.smallleftpanel h4{
+     font-size: 15px;
+    font-weight: bold;
+        line-height: 1px;
+} 
+.blogBoxes img{
+    width: 100%;
+}
+.blogwhitebg{
+    background: white;
+   
+}
+.blogwhitebg p,h4{
+ padding-left: 10px;
+   
+}
+.containerMarginBottom{
+   margin-bottom: 30px;
+}
+.arrowimg{
+    background: url(../img/whiteArrow.png);
+        position: absolute;
+       height: 53px;
+    width: 108px;
+    background-repeat: no-repeat;
+        top: 52%;
+    left: 124px;
+    z-index: 0;
+}
+.testimonialBottom{
+        display: block;
+    width: 500px;
+    text-align: left;
+    padding-left: 20px;
+}
+.userImg{    
+    float: left;
+    width: 20%;
+}
+.userINfo{
+    float: left;
+}
+.userINfo p{
+    margin: 0px;
+    padding: 0px;
+}
+.userINfo p b{
+        font-size: 16px;
+    color: white;
+}
+.desg{
+    color: #eeeeee;
+    font-size: 12px;
+    font-weight: bold;
+}
+.testimonialInner{
+    margin-top: 30px;
+}
+.footerWraper .row
+{
+ margin-left: 0px;
+ margin-right: 0px;
+}
+.logofooter{ margin-bottom: 20px;}
+.footerWraper { color: white;font-size: 13px;}
+.footerWraper p{ color: white;font-size: 13px;}
+.footerWraper h2{    margin-bottom: 20px;    padding-left: 18px;}
+.footerWraper .col-md-3{ text-align: center !important;}
+.footerWraper ul{
+    list-style: none;
+    
+}
+.footerWraper ul li{
+        line-height: 24px;
+    
+}
+.marginTopWrapper{
+    height: 100px;
+}
+.footerinput{ width: 86%;float: left;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;    height: 40px;}
+.btnsubmit{
+    float: left;
+        margin-left: -1px;
+        border:1px solid #913739;
+        background: #913739;
+        color: white;
+        padding: 8px;
+    font-size: 16px;
+    width: 113px;
+    text-transform: uppercase;
+}
+.footerSocial{
+    background: #913739;
+    height: 40px;
+    padding-top: 5px;
+}
+.footerSocial ul{ list-style: none;}
+.footerSocial ul li{float: left;}
+.footerSocial ul li a{
+        background: white;
+    margin-right: 10px;
+    /* padding: 8px; */
+    border-radius: 17px;
+    height: 30px;
+    width: 30px;
+    color: #9f9d9d;
+    text-align: center;
+    padding-top: 9px;
+    text-decoration: none;
+}
+.servicesArea{
+        background: #ae2429;
+    padding: 10px;
+    margin-bottom: 15px;
+   padding-top: 0px;
+}
+.servicesArea:hover{
+        background: #848588;
+   
+}
+.servicesWrap .col-md-3{padding-left: 2px;
+    padding-right: 2px;
+    margin-bottom: 40px;
+}
+.servicesArea img{
+        margin-top: -35px;
+}
+.servicesWrap .headingWrap{margin-bottom: 55px;}
+.servicesArea h4{
+    font-size: 20px;
+    color: white;
+}
+.servicesArea p{
+    font-size: 16px;
+    color: white;
+}
+.readMoreLink{
+    background: #ae2429;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: white;
+        padding-left: 35px;
+    padding-right: 35px;
+    text-transform: uppercase;
+}
+.readMoreLink:hover
+{
+    color: white;
+    text-decoration: none;
+    background: #848588;
+}
+.quotebtn{
+    background: #848588;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: white;
+        padding-left: 35px;
+    padding-right: 35px;
+    text-transform: uppercase;
+}
+.quotebtn:hover
+{
+    color: white;
+    text-decoration: none;
+    background: #ae2429;
+}
+.quoteBg{
+    max-height: 155px;
+    height: 155px;
+    background: url('../img/services/quotearea.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
+        margin-bottom: 54px;
+            padding-top: 33px;
+    color: white;
+}
+.breadcrumbswrp{
+     max-height: 155px;
+    height: 155px;
+    background: url('../img/services/breadcrumb.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
+        margin-bottom: 54px;
+            padding-top: 33px;
+    color: #ae2429;
+}
+.breadcrumbswrp a{
+    color: white;
+    text-decoration: none;
+}
+.blogPagewrap .blogwhitebg{
+    border: 1px solid #ededed;
+    text-align: center;
+}
+.blogPagewrap .blogBoxes
+{
+    margin-bottom: 10px;
+}
+.blogPagewrap .blogBoxes h4
+{
+    font-size: 22px;
+}
+.blogPagewrap .blogBoxes p
+{
+   font-size:16px; 
+}
+.crumbarea
+{
+        padding-top: 7px;
+    padding-right: 5px;
+    height: 24px;
+}
+.crumbarea a
+{
+        color: #ae2429;
+        text-decoration: none;
+}
+.largImage{
+        height: 350px;
+}
+.SingleBlogPage  .blogBoxes .blogwhitebg p{
+       text-align: justify;
+}
+.leftsmall
+{
+        width: 48%;
+    float: left;
+}
+.rightpanel{  width: 48%;
+    float: left;}
+.smallroundpic{
+    width: 50px !important;
+        float: left;
+    margin-right: 9px;
+
+}
+.leftsmall p{
+        margin: 0 0 0px;
+}
+.rightpanel{float: right;}
+.rightpanel p{text-align: right !important; float: right;}
+.contactusPage{
+    background: url('../img/map.png');
+    min-height: 400px;
+        padding-top: 14px;
+}
+.cntredbg{
+    background: #d9534f;
+    width: 98%;
+    margin-left: 1%;
+        min-height: 374px;
+        color: white;
+        opacity: .9;
+}
+.cntheading
+{
+        min-height: 67px;
+}
+.cntinfoarea
+{
+        min-height: 227px;
+}
+
+.gallery img{
+   width: 100%;
+}
+.gallerywraperapp .gallery{
+    margin-bottom: 10px;
+    padding: 0px;
+}
+.topwrapperAbout{
+    background: #f5f5f5;
+}
+.blackbg{
+     background: url('../img/aboutus/blackgb.png');
+     min-height: 450px;
+     max-height: 450px;
+}
+.aboutusred{
+     background: url('../img/aboutus/redArea.png');
+     min-height: 450px;
+     max-height: 450px;
+     background-repeat:none;
+     background-size:cover; 
+}
+.bookingArea{
+    margin-bottom: 15px;
+}
+.bookingImg
+{
+    text-align: center;
+    background: #ebebeb;
+        padding-bottom: 10px;
+    padding-top: 10px;
+}
+.bookingImg img{
+       width: 275px;
+}
+.bookingLeftPanel .row
+{
+    margin-left: 0px;
+}
+.bookingformarea{
+      margin-top: 18px;
+}
+.userFormArea{
+    text-align: center;
+    background: #eeeeee;
+    margin-bottom: 20px;
+    min-height: 400px;
+}
+.userFormInner{
+    text-align: center !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.userIcon{
+        background: #ae2429;
+    padding: 22px;
+    border-radius: 30px;
+    color: #eeeeee;
+    margin-top: -25px;
+    font-size: 20px;
+}
+.userFormInner .customInput{
+        width: 80%;
+            display: inline;
+   border-radius: 24px;
+    height: 40px;
+}
+.loginbtn{
+    border-radius: 24px;
+    height: 40px;
+    text-align: center;
+    background: #ae2429;
+    color: white;
+    width: 200px;
+     
+}
+.loginbtn:hover{
+    
+     color: white;
+     
+}
+.userFormInner p{
+    color: #8c8c8c;
+    margin: 0 0 0px;
+}
+.userFormInner p a{
+    color: #8c8c8c;
+}
+.userFormInner p a:hover{
+    color: #8c8c8c;
+    text-decoration: none;
+}
+.error
+{
+    color: #ae2429 !important;
+}
+.bookingformarea .customInput{
+    height: 35px;
+}
+.bookingformarea textarea{
+    height: 100px !important;
+}
+.sidebarBlog img{
+       width: 14%;
+    float: left;
+    margin-right: 9px;
+}
+.sidebarBlog h5{
+       float: left;
+           width: 80%;
+               margin: 0px;
+}
+.sidebarBlog p{
+        padding-left: 6px;
+    padding-right: 10px;
+}
